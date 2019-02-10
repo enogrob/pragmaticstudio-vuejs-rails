@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Pragmatic Studio` projec
 
 ## Topics
 ```
-[ ] 01. Intro and Setup
+[x] 01. Intro and Setup
 [ ] 02. App and Design Overview
 [ ] 03. Vue App Overview
 [ ] 04. Rails App Overview
