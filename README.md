@@ -16,8 +16,8 @@ Learn everything you need to about the subject of this `Pragmatic Studio` projec
 ## Topics
 ```
 [x] 01. Intro and Setup
-[x] 02. App and Design Overview
-[x] 03. Vue App Overview
+[ ] 02. App and Design Overview
+[ ] 03. Vue App Overview
 [ ] 04. Rails App Overview
 [ ] 05. End-to-End: Fetch Baits
 [ ] 06. Vuex
