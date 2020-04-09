@@ -18,7 +18,7 @@ Learn everything you need to about the subject of this `Pragmatic Studio` projec
 * [x] [01. Intro and Setup](https://online.pragmaticstudio.com/courses/unpacked-fishub/steps/2)
 * [x] [02. App and Design Overview](https://online.pragmaticstudio.com/courses/unpacked-fishub/steps/5)
 * [x] [03. Vue App Overview](https://online.pragmaticstudio.com/courses/unpacked-fishub/steps/7)
-* [ ] [04. Rails App Overview]()
+* [x] [04. Rails App Overview](https://online.pragmaticstudio.com/courses/unpacked-fishub/steps/9)
 * [ ] [05. End-to-End: Fetch Baits]()
 * [ ] [06. Vuex]()
 * [ ] [07. End-to-End: Fetch Tackle Box]()
